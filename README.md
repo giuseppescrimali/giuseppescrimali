@@ -17,6 +17,11 @@ Can small Vision-LLMs tell when a document question *can't* be answered — by a
 Benchmarked proprietary LLMs (GPT, Gemini, Codestral) against open-weight models (Qwen 4B/8B, Phi-4-mini-reasoning) on natural-language-to-SQL generation, graded across a taxonomy of 7 SQL difficulty patterns and 4 database schemas — including full reasoning-trace evaluation, not just final-answer accuracy.
 `Text-to-SQL` `LLM Evaluation` `Prompt Engineering` `Reasoning Analysis`
 
+### [🦠 Malware Detection from API Call Sequences](https://github.com/giuseppescrimali/malware-detection-api-sequences)
+Malware vs. benign classification from Windows API-call sequences, comparing a Bag-of-Words + Random Forest baseline, an embedding-based FFNN, and an LSTM (PyTorch).
+**Highlight:** the frequency-only baseline outperformed both sequential/neural models on macro F1 — model complexity should match the actual signal in the data, not just what's fashionable.
+`PyTorch` `Scikit-learn` `LSTM` `Embeddings` `Imbalanced Classification`
+
 ### [⚡ GPU Computing with CUDA](https://github.com/giuseppescrimali/cuda-gpu-optimization)
 Hands-on GPU performance work: NumPy → CuPy → custom CUDA kernels (Numba), then profiling and tuning with NVIDIA Nsight Systems — block-size sweeps, parallel reductions, and diagnosing synchronization anti-patterns directly from the profiler timeline.
 `CUDA` `Numba` `CuPy` `Nsight Systems` `GPU Profiling`
