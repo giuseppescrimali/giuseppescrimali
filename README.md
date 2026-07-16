@@ -1,6 +1,6 @@
 # Hi, I'm Giuseppe 👋
 
-MSc Mechanical Engineering student at **Politecnico di Torino**, working at the intersection of engineering and AI/ML. This profile collects my work in GPU computing, deep learning, and LLM/Vision-LLM benchmarking.
+I am an AI Engineer working at the intersection of engineering and AI/ML. This profile collects my work in GPU computing, deep learning, and LLM/Vision-LLM benchmarking.
 
 📄 [LinkedIn](#) · 📍 Turin, Italy
 
