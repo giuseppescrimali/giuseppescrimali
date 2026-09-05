@@ -2,8 +2,7 @@
 
 I am an AI Engineer working at the intersection of engineering and AI/ML. This profile collects my work in GPU computing, deep learning, and LLM/Vision-LLM benchmarking.
 
-📄 [LinkedIn](#) · 📍 Turin, Italy
-
+📄 [LinkedIn](https://www.linkedin.com/in/scrimali/) · 📍 Turin, Italy
 ---
 
 ## 🚀 Projects
