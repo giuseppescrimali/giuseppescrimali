@@ -21,6 +21,11 @@ Malware vs. benign classification from Windows API-call sequences, comparing a B
 **Highlight:** the frequency-only baseline outperformed both sequential/neural models on macro F1 — model complexity should match the actual signal in the data, not just what's fashionable.
 `PyTorch` `Scikit-learn` `LSTM` `Embeddings` `Imbalanced Classification`
 
+### [🛰️ Land-Cover Segmentation on OpenEarthMap](https://github.com/giuseppescrimali/openearthmap-segmentation)
+Pixel-level land-cover mapping from high-resolution aerial/satellite imagery with a U-Net (pretrained ResNet34) in PyTorch Lightning — convergence sanity check, 16-run batch-size × learning-rate grid search, augmentation ablation, and per-class error analysis via the confusion matrix.
+**Highlight:** test mIoU 0.611 (val 0.624); the hardest errors come from visually similar classes (tree ↔ rangeland, road ↔ developed space), not from class rarity.
+`PyTorch Lightning` `Semantic Segmentation` `U-Net` `Remote Sensing` `segmentation_models_pytorch`
+
 ### [⚡ GPU Computing with CUDA](https://github.com/giuseppescrimali/cuda-gpu-optimization)
 Hands-on GPU performance work: NumPy → CuPy → custom CUDA kernels (Numba), then profiling and tuning with NVIDIA Nsight Systems — block-size sweeps, parallel reductions, and diagnosing synchronization anti-patterns directly from the profiler timeline.
 `CUDA` `Numba` `CuPy` `Nsight Systems` `GPU Profiling`
