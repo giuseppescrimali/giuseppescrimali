@@ -1,6 +1,8 @@
 # Hi, I'm Giuseppe 👋
 
-I am an AI Engineer working at the intersection of engineering and AI/ML. This profile collects my work in GPU computing, deep learning, and LLM/Vision-LLM benchmarking.
+I'm a **Systems & AI Engineer** with a mechanical engineering background (MSc, Politecnico di Torino) and a 2nd-level Master in AI (Politecnico di Torino, with NVIDIA). I work where physical systems, Model-Based Systems Engineering (MBSE) and AI/ML meet: currently System Engineer at TXT Group for Leonardo S.p.A. and Agentic AI Intern at Terna S.p.A.
+
+This profile collects my work in GPU computing, deep learning, LLM/Vision-LLM benchmarking and SysML v2.
 
 📄 [LinkedIn](https://www.linkedin.com/in/scrimali/) · 📍 Turin, Italy
 ---
