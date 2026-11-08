@@ -36,6 +36,16 @@ My Master's thesis: evaluating the new SysML v2 language for Model-Based Systems
 
 ---
 
+## 🏅 Certifications
+
+Verified certificates from the **NVIDIA Deep Learning Institute** (click to validate):
+
+- [Building RAG Agents with LLMs](https://learn.nvidia.com/certificates?id=5bEFCjgvTxGTyMLAtavF2A) — NVIDIA DLI, 2026
+- [Adding Knowledge to LLMs](https://learn.nvidia.com/certificates?id=f-rQUZQGSQuM70oQW8be0A) — NVIDIA DLI, 2026
+- [Generative AI with Diffusion Models](https://learn.nvidia.com/certificates?id=i-OGc68qRz2Lhms-vpnwWg) — NVIDIA DLI, 2026
+
+---
+
 ## 🛠️ Tech I work with
 
 **AI/ML:** PyTorch · Scikit-learn · Transformers (Qwen, Gemma, Phi) · Prompt Engineering
