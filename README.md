@@ -42,6 +42,7 @@ My Master's thesis: evaluating the new SysML v2 language for Model-Based Systems
 
 Verified certificates from the **NVIDIA Deep Learning Institute** (click to validate):
 
+- [Building Agentic AI Applications with LLMs](https://learn.nvidia.com/certificates?id=vpn0sZkZS_-8igMWbDJdmQ) — NVIDIA DLI, 2026
 - [Building RAG Agents with LLMs](https://learn.nvidia.com/certificates?id=5bEFCjgvTxGTyMLAtavF2A) — NVIDIA DLI, 2026
 - [Adding Knowledge to LLMs](https://learn.nvidia.com/certificates?id=f-rQUZQGSQuM70oQW8be0A) — NVIDIA DLI, 2026
 - [Generative AI with Diffusion Models](https://learn.nvidia.com/certificates?id=i-OGc68qRz2Lhms-vpnwWg) — NVIDIA DLI, 2026
